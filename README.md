@@ -2,6 +2,7 @@
 
 PHP-FPM 7.4 image built on official PHP-FPM with Composer and following extensions:
 * bcmath
+* gd
 * imap
 * intl
 * json
