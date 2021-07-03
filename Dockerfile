@@ -1,4 +1,4 @@
-FROM php:7.4.20-fpm
+FROM php:7.4.21-fpm
 
 ENV PHP_CPPFLAGS="$PHP_CPPFLAGS -std=c++11"
 
